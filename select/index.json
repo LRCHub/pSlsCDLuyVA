@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "GOOD DAY",
+  "base_artist": "舐達麻",
+  "createdAt": "2025-12-23T06:06:47.403604Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Good Day",
+      "artist": "Brett Eldredge",
+      "has_synced": true,
+      "path": "select/01_Good_Day_Brett_Eldredge.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Good Day - Acoustic",
+      "artist": "Brett Eldredge",
+      "has_synced": true,
+      "path": "select/02_Good_Day_-_Acoustic_Brett_Eldredge.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Good Day for Living",
+      "artist": "Joe Nichols",
+      "has_synced": false,
+      "path": "select/03_Good_Day_for_Living_Joe_Nichols.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Today Is a Good Day",
+      "artist": "MC Solaar",
+      "has_synced": true,
+      "path": "select/04_Today_Is_a_Good_Day_MC_Solaar.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Today is a good day (feat. Darina)",
+      "artist": "MC Solaar",
+      "has_synced": true,
+      "path": "select/05_Today_is_a_good_day_(feat._Darina)_MC_Solaar.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Good Day (feat. Skippa da Flippa)",
+      "artist": "Lil Yachty feat. Skippa da Flippa",
+      "has_synced": true,
+      "path": "select/06_Good_Day_(feat._Skippa_da_Flippa)_Lil_Yachty_feat._Skippa_da_Flippa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Good Day (feat. Skippa da Flippa)",
+      "artist": "Lil Yachty",
+      "has_synced": true,
+      "path": "select/07_Good_Day_(feat._Skippa_da_Flippa)_Lil_Yachty.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Good Day, Good Sir (Interlude)",
+      "artist": "OutKast",
+      "has_synced": false,
+      "path": "select/08_Good_Day,_Good_Sir_(Interlude)_OutKast.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Good Day Sunshine",
+      "artist": "The Tremeloes",
+      "has_synced": true,
+      "path": "select/09_Good_Day_Sunshine_The_Tremeloes.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Good Day Sunshine",
+      "artist": "The Eyes",
+      "has_synced": false,
+      "path": "select/10_Good_Day_Sunshine_The_Eyes.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "A Good Day",
+      "artist": "Echobelly",
+      "has_synced": false,
+      "path": "select/11_A_Good_Day_Echobelly.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Good Day To Die - Live At Glastonbury Festival / 1999",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/12_Good_Day_To_Die_-_Live_At_Glastonbury_Festival___1999_Travis.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Good Day To Die (Live At Glastonbury Festival \u0000 1999)",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/13_Good_Day_To_Die_(Live_At_Glastonbury_Festival_\u0000_1999)_Travis.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Good Day to Die (live)",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/14_Good_Day_to_Die_(live)_Travis.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "On A Good Day",
+      "artist": "Joanna Newsom",
+      "has_synced": true,
+      "path": "select/15_On_A_Good_Day_Joanna_Newsom.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GOOD DAY",
+      "artist": "舐達麻",
+      "has_synced": false,
+      "path": "select/pl_01_GOOD_DAY_舐達麻.txt"
+    }
+  ]
+}
